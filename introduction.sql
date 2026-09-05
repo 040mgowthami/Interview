@@ -103,6 +103,12 @@ The table_name represents the name of the table you want to select data from.
 
 Demo Database
 Below is a selection from the Customers table used in the examples:
+CustomerID	CustomerName	ContactName	Address	City	PostalCode	Country
+1
+
+Alfreds Futterkiste	Maria Anders	Obere Str. 57	Berlin	12209	Germany
+2	Ana Trujillo Emparedados y helados	Ana Trujillo	Avda. de la Constitución 2222	México D.F.	05021	Mexico
+3
 
 
 
