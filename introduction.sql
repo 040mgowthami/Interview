@@ -82,6 +82,15 @@ CREATE TABLE - creates a new table
 ALTER TABLE - modifies a table
 DROP TABLE - deletes a table
 CREATE INDEX - creates an index (search key)
+
+
+The SQL SELECT Statement
+The SELECT statement is used to select data from a database.
+
+ExampleGet your own SQL Server
+Return data from the Customers table:
+
+SELECT CustomerName, City FROM Customers;
 DROP INDEX - deletes an index
 
 
