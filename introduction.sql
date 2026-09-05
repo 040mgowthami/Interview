@@ -101,5 +101,10 @@ Here, column1, column2, ... are the column names in the table you want to select
 
 The table_name represents the name of the table you want to select data from.
 
+Demo Database
+Below is a selection from the Customers table used in the examples:
+
+
+
 
 
