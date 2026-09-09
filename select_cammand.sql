@@ -19,3 +19,11 @@ FROM table_name;
  /*Select all the distinct (unique) countries from the "Customers" table: */
 SELECT DISTINCT Country FROM Customers;
 
+/*SELECT Example Without DISTINCT*/
+/*If you omit the DISTINCT keyword, the SQL statement returns the "Country" value from all the records of the "Customers" table: */
+SELECT Country FROM Customers;
+
+
+
+
+
