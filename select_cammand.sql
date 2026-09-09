@@ -9,3 +9,8 @@ SELECT CustomerName, City FROM Customers;
 
 /* Select ALL Columns */
 SELECT * FROM Customers;
+
+/* SQL SELECT DISTINCT Statement */
+ /*Select all the distinct (unique) countries from the "Customers" table: */
+SELECT DISTINCT Country FROM Customers;
+
