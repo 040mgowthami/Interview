@@ -1,0 +1,4 @@
+/* SQL WHERE Clause
+The WHERE clause is used to filter records.
+
+The WHERE clause is used to extract only those records that fulfill a specific condition. */
