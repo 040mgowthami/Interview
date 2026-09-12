@@ -22,3 +22,6 @@ However, numeric fields should not be enclosed in quotes:*/
 SELECT * FROM Customers
 WHERE CustomerID = 1;
 
+
+/*Operators in The WHERE Clause*/
+
