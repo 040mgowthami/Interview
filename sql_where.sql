@@ -18,4 +18,7 @@ Note: The WHERE clause is not only used in SELECT statements, it is also used in
 SQL requires single quotes around text values (most database systems will also allow double quotes).
 
 However, numeric fields should not be enclosed in quotes:*/
+  Example
+SELECT * FROM Customers
+WHERE CustomerID = 1;
 
