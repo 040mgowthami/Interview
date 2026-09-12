@@ -24,4 +24,6 @@ WHERE CustomerID = 1;
 
 
 /*Operators in The WHERE Clause*/
+SELECT * FROM Customers
+WHERE CustomerID > 80;
 
