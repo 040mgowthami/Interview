@@ -28,6 +28,8 @@ However, numeric fields should not be enclosed in quotes:*/
 SELECT * FROM Customers
 WHERE CustomerID = 1;
 
+Note: The WHERE clause is not only used in SELECT statements, it is also used in UPDATE, DELETE, etc.
+
 
 /*Operators in The WHERE Clause*/
 SELECT * FROM Customers
