@@ -115,7 +115,7 @@ Some database systems require a semicolon at the end of each SQL statement.
 
 Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement to be executed in the same call to the server.
 
-In this tutorial, we will use semicolon at the end of each SQL statement.
+In this tutorial, we will use semicolon at the end of each SQL statments.
 
 
 
