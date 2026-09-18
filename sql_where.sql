@@ -6,7 +6,7 @@ The WHERE clause is used to extract only those records that fulfill a specific c
 Here we select all customers from Mexico:*/
 
 WHERE Syntax
-  SELECT column1, column2, ...
+  SELECT column1, column2, .....
 FROM table_name
 WHERE condition;
   
