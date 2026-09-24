@@ -18,7 +18,7 @@ SELECT column1, column2, ......
 FROM table_name
 WHERE condition;
 
-Note: The WHERE clause is not only used in SELECT statements, it is also used in UPDATE, DELETE, etc..
+Note: The WHERE clause is not only used in SELECT statements, it is also used in UPDATE, DELETE, etc...
 
 /* Text Fields vs. Numeric Fields 
 SQL requires single quotes around text values (most database systems will also allow double quotes).
