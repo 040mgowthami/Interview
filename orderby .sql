@@ -14,8 +14,8 @@ ORDER BY column1, column2, ... ASC|DESC;
 ORDER BY DESC
 To sort the records in descending order, use the DESC keyword.
 
-  Example
-Sort the products from highest to lowest price:
+ /* Example
+Sort the products from highest to lowest price:*/
 
 SELECT * FROM Products
 ORDER BY Price DESC;
