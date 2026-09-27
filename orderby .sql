@@ -20,3 +20,8 @@ Sort the products from highest to lowest price:
 SELECT * FROM Products
 ORDER BY Price DESC;
 
+
+/*Combine ASC and DESC*/
+SELECT * FROM Customers
+ORDER BY Country ASC, CustomerName DESC;
+
