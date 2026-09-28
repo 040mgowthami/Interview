@@ -6,4 +6,4 @@ The AND operator is used to filter records based on more than one condition.
 
 Note: The AND operator displays a record if all the conditions are TRUE.*/
 
-
+/*Example*/
