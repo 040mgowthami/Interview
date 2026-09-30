@@ -9,3 +9,9 @@ Note: The AND operator displays a record if all the conditions are TRUE.*/
 /*Example*/
 SELECT * FROM Customers
 WHERE Country = 'UK' AND City = 'London';
+
+/*The MySQL OR Operator*/
+/* example*/
+SELECT * FROM Customers
+WHERE City = 'Berlin' OR City = 'Stuttgart';
+
