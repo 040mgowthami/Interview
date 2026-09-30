@@ -11,7 +11,7 @@ SELECT * FROM Customers
 WHERE Country = 'UK' AND City = 'London';
 
 /*OR Syntax*/
-SELECT column1, column2, ...
+SELECT column1, column2, ....
 FROM table_name
 WHERE condition1 OR condition2 OR condition3 ...;
 
