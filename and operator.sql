@@ -15,3 +15,5 @@ WHERE Country = 'UK' AND City = 'London';
 SELECT * FROM Customers
 WHERE City = 'Berlin' OR City = 'Stuttgart';
 
+SELECT * FROM Customers
+WHERE Country = 'Germany' OR Country = 'Spain';
