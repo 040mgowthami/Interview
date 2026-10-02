@@ -22,3 +22,6 @@ WHERE City = 'Berlin' OR City = 'Stuttgart';
 
 SELECT * FROM Customers
 WHERE Country = 'Germany' OR Country = 'Spain';
+
+select * from emp
+where sal > 5000 and sal < 300;
