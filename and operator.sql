@@ -26,5 +26,9 @@ WHERE Country = 'Germany' OR Country = 'Spain';
 select * from emp
 where sal > 5000 and sal < 300;
 
+SELECT column1, column2, ...
+FROM table_name
+WHERE NOT condition;
+
 SELECT * FROM Customers
 WHERE NOT Country = 'Germany';
